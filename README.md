@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrWanheda
-- 👀 I’m interested in Sam
+- 👀 I’m interested in uçmaz
 - 🌱 I’m currently learning java , c# , unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can't
